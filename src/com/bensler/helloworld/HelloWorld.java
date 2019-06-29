@@ -15,6 +15,7 @@ public class HelloWorld {
 	public static void zwei(String[] bernd) {
 		drei(bernd, 0);
 		drei(bernd, 1);
+		drei(bernd, 2);
 	}
 	
 	public static void drei(String[] args, int index) {
