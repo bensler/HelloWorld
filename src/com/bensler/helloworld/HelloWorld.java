@@ -1,7 +1,7 @@
 package com.bensler.helloworld;
 
 public class HelloWorld {
-	
+
 	public static void main(String[] args) {
 		eins(args);
 		System.out.println(plus(34, 17));
